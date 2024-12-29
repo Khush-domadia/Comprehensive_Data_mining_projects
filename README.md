@@ -1,4 +1,5 @@
 Data Mining Projects Repository
+
 Welcome to my Data Mining Projects Repository! This repository contains a collection of data mining and machine learning projects, showcasing various analytical methods applied to different datasets. Each project explores distinct techniques for extracting insights and creating visualizations from data.
 
 Overview
