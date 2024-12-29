@@ -24,6 +24,7 @@ Cluster Analysis: Uncover natural groupings in data.
 Association Rules: Find hidden relationships and patterns in datasets.
 
 📂 Datasets Used
+
 Each project is powered by data! 🌍 The datasets range from widely recognized public datasets to custom-curated collections. A few examples include:
 
 🛍️ Customer Demographics & Purchase Data – Understand buying behavior.
@@ -31,7 +32,9 @@ Each project is powered by data! 🌍 The datasets range from widely recognized 
 🏥 Health & Medical Data – Predict health outcomes and patterns.
 🛒 Market Basket Analysis – Discover relationships between purchased items.
 🌱 Climate & Environmental Data – Study environmental impacts.
+
 🎨 Visualizations
+
 Visualizations are at the heart of these projects. Data comes to life through dynamic and insightful graphics, including:
 
 📈 Scatter Plots, Histograms, and Boxplots – Simplify complex data distributions.
@@ -49,6 +52,7 @@ Whether you're a student, professional, or data enthusiast, this repository is d
 Feel free to star ⭐ this repository if you find it helpful and share it with others who love data science! Let's grow together. 🌱
 
 👩‍💻 Contributions & Feedback
+
 Contributions and feedback are always welcome! Fork the repository, submit a pull request, or drop a comment in the Issues section. Let’s collaborate and make this repository even better.
 
 Transform your curiosity into expertise with this repository. 🌟 Happy mining!
