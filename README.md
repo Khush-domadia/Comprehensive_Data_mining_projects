@@ -6,6 +6,7 @@ Overview
 
 This repository is a compilation of data mining and machine learning projects. It demonstrates the use of several methodologies for data analysis, prediction, and pattern recognition. From simple linear regressions to complex neural network models, this repository serves as a practical guide for exploring a wide range of data science techniques.
 
+
 Methods and Techniques
 
 The following analytical methods are explored:
@@ -26,6 +27,7 @@ Cluster Analysis: Grouping data points based on similarity.
 
 Association Rules: Discovering relationships between variables in large datasets.
 
+
 Datasets Used
 
 Each project utilizes one or more datasets, ranging from publicly available sources to custom-prepared data. Example datasets include:
@@ -39,6 +41,7 @@ Health and medical data
 Market basket analysis datasets
 
 Climate and environmental data
+
 
 Visualizations
 
